@@ -1,0 +1,6 @@
+[
+{"id": "0", "title": "EnglishBook", "location": "C:/Users/manub/IdeaProjects/Lab5_homework/EnglishBook.pdf", "type": "book"},
+{"id": "1", "title": "HistoryArticle", "location": "C:/Users/manub/IdeaProjects/Lab5_homework/HistoryArticle.pdf", "type": "article"},
+{"id": "2", "title": "ProgrammingBook", "location": "d:/books/programming/tacp.ps", "type": "book"},
+{"id": "3", "title": "OracleArticle", "location": "https://docs.oracle.com/javase/specs/jls/se17/html/index.html", "type": "article"}
+]
